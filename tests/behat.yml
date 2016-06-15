@@ -14,3 +14,4 @@ default:
       base_url: http://seven.l
     Drupal\DrupalExtension:
       blackbox: ~
+      api_driver: 'drupal'
